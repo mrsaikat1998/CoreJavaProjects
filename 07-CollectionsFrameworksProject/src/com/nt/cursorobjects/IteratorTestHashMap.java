@@ -1,4 +1,4 @@
-package com.nt.iteratingobject;
+package com.nt.cursorobjects;
 
 import java.util.ArrayList;
 import java.util.HashMap;
